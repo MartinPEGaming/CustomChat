@@ -1,6 +1,1 @@
----
-chat-format: '{WORLD_NAME}:[{PREFIX}]<{DISPLAY_NAME}> {MESSAGE}'
-enable-formatter: true
-disablechat: false
-default-player-prefix: Default
-...
+lol its work
